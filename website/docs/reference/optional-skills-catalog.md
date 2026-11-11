@@ -245,6 +245,7 @@ hermes skills uninstall <skill-name>
 
 | Skill | Description |
 |-------|-------------|
+| [**music-assistant-ha**](../user-guide/skills/optional/smart-home/smart-home-music-assistant-ha.md) | Music Assistant: playback, volume, queue, search, announce. |
 | [**openhue**](../user-guide/skills/optional/smart-home/smart-home-openhue.md) | Control Philips Hue lights, scenes, rooms via OpenHue CLI. |
 
 ## social-media

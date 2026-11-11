@@ -586,6 +586,7 @@ const sidebars: SidebarsConfig = {
                   key: 'skills-optional-smart-home',
                   collapsed: true,
                   items: [
+                    'user-guide/skills/optional/smart-home/smart-home-music-assistant-ha',
                     'user-guide/skills/optional/smart-home/smart-home-openhue',
                   ],
                 },
